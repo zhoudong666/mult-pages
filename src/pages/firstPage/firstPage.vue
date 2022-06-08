@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>roles roles roles</h1>
+    <h1>firstPage</h1>
     <div id="nav">
       <router-link to="/home">Home</router-link> |
       <router-link to="/about">About</router-link>
@@ -10,7 +10,7 @@
 </template>
 <script>
 export default {
-  name: 'roles'
+  name: 'firstPage'
 }
 </script>
 
